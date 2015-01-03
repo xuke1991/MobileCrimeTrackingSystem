@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<string name="app_name">Mobile Crime Tracking System</string>
+	<string name="no_files">Empty Path</string>
+	<string name="to_top">[Return]</string>
+
+
+
+
+	<string name="str_longitude">Longitude：</string>
+	<string name="str_latitude">Latitude：</string>
+	<string name="str_button1">Query</string>
+	<string name="str_button2">+</string>
+	<string name="str_button3">-</string>
+	
+	
+	<string name="str_err_address">Address does not exist</string>
+	<string name="str_err_location">Can not get Location</string>
+	<string name="str_my_location">Location right now：</string>
+	<string name="str_default_address">SantaMonica,CA</string>
+
+
+	<string-array name="faultRecords">
+		<item>Speeding</item>
+		<item>Run a red light</item>
+		<item>Parking violation</item>
+		<item>Driving under the influence</item>
+	</string-array>
+</resources>
