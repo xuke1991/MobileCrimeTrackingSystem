@@ -6,13 +6,13 @@ Mobile Crime Tracking System with Android
 Based on smart phones we established a mobile crime tracking system
 which has the following functions:
 
-1. Request infomation from the sever such as wanted criminals or lost
+ 1. Request infomation from the sever such as wanted criminals or lost
 vehicles.
 
-2. Using smart phones to collect infomation on crime scene and upload it
+ 2. Using smart phones to collect infomation on crime scene and upload it
 to the sever.
 
-3.Using GPS to locate the client or request the position of a certain
+ 3.Using GPS to locate the client or request the position of a certain
 address.
 
 Package name and descriptions:
