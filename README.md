@@ -17,18 +17,18 @@ address.
 
 Package name and descriptions:
 
-com.amaker.mp              Main package for the system, including main menu
+com.amaker.mp--------------Main package for the system, including main menu
 and according activities
 
-com.amaker.mp.fileupload   Package for uploading files
+com.amaker.mp.fileupload---Package for uploading files
 
-com.amaker.mp.infoquery    Package for requesting information
+com.amaker.mp.infoquery----Package for requesting information
 
-com.amaker.mp.infocollect  Package for collecting information
+com.amaker.mp.infocollect--Package for collecting information
 
-com.amaker.mp.location     Package for GPS locations
+com.amaker.mp.location-----Package for GPS locations
 
-com.amaker.mp.location     Other utilities used
+com.amaker.mp.location-----Other utilities used
 
 Login function is done by Http Client with Apache, we defined a class
 named HttpUtil on the sever end. Also we use Model-View-Controller +
